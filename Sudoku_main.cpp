@@ -7,7 +7,7 @@
 int main(int argc, char** argv)
 {
 	try {
-		if (argc <= 1) throw 1;					//if less than 1 argument is detected, throw an exceptionS
+		if (argc <= 1) throw 1;					//if less than 1 argument is detected, throw an exception
 	}
 	catch (int x)
 	{
